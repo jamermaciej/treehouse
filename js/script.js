@@ -10,3 +10,9 @@ $(document).ready(function(){
 		}
 	});
 });
+
+$(document).ready(function(){
+	$('li a').click(function(){
+		$('.nav__list').removeClass('open');
+	});
+});
