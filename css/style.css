@@ -711,7 +711,7 @@ section {
         line-height: 25px;
         margin: 45px 0 20px; }
   .portfolio {
-    background: url("/img/phone.png") no-repeat;
+    background: url("img/phone.png") no-repeat;
     background-position: right bottom; }
     .portfolio .portfolio-content {
       max-width: 500px; }
